@@ -1,0 +1,48 @@
+============
+Instructions
+============
+
+**** Movement ****
+
+Arrow-Key LEFT: Moves Player left
+Arrow-Key RIGHT: Moves Player right
+R + Arrow-Key LEFT/ RIGHT: Player Runs in denoted direction
+Space: Jump
+Hold Space: Higher Jump
+
+
+**** Attacks ****
+
+W: Shoulder Charge Attack
+R: Wind-Slash
+R + Arrow-key UP/ LEFT/ RIGHT: Wind Slash in denoted direction
+
+
+**** Miscellaneous ****
+
+Esc: Pause Game
+Esc + Space: Returns to Main Menu
+Esc + S: Save Game
+
+
+***********************************************
+                  BIBLIOGRAPHY
+***********************************************
+
+ZetCode - Moving Sprites:
+http://zetcode.com/tutorials/javagamestutorial/movingsprites/
+
+StackExchange - Animation Help:
+http://gamedev.stackexchange.com/questions/53705/how-can-i-make-a-sprite-sheet-based-animation-system
+
+Sprite Sheets:
+http://www.spriters-resource.com/
+
+Jukebox help/ music loading help:
+http://stackoverflow.com/questions/30834765/create-a-jukebox-program-in-java
+
+Questions and Noob Help:
+http://stackoverflow.com/questions/tagged/java
+
+Official Coder - Prodige Tukala
+Code Inspired by Nintendo's Sonic Platformer & Notch's Ludum Dare Series
